@@ -7,4 +7,4 @@ Then, follow the prompts on screen to use the program.
 
 Acknowledgment
 
-built as a team with Felix,Andrew,Rana,Anudev,and Erin.
+Built as a team with Felix,Andrew,Rana,Anudev,and Erin.
